@@ -13,4 +13,4 @@ microservice:
       fetchUserById:
         uri: http://USER-SERVICE/users
 test:
-  value: 23
+  value: 456
