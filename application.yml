@@ -14,3 +14,7 @@ microservice:
         uri: http://USER-SERVICE/users
 test:
   value: 493579347
+
+logging:
+  file:
+    name: C:\Users\WIN SSD\OneDrive\Desktop\Prep\microservices-prep\app-logs.log
